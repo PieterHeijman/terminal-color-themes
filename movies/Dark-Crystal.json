@@ -1,0 +1,21 @@
+{
+  "name": "Dark Crystal",
+  "black": "#0d0d0d",
+  "red": "#53262d",
+  "green": "#655b4f",
+  "yellow": "#b5a494",
+  "blue": "#6f6b7a",
+  "purple": "#d56fa1",
+  "cyan": "#6f6b7a",
+  "white": "#dad1c8",
+  "brightBlack": "#868686",
+  "brightRed": "#6b3650",
+  "brightGreen": "#d6fcba",
+  "brightYellow": "#d1c1b3",
+  "brightBlue": "#8e8a9b",
+  "brightPurple": "#e694bb",
+  "brightCyan": "#a09caa",
+  "brightWhite": "#ffffff",
+  "background": "#0d0d0d",
+  "foreground": "#b5a494"
+}
