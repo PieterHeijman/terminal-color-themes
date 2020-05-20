@@ -1,0 +1,21 @@
+{
+  "name": "Akira Inverted",
+  "black": "#3b303e",
+  "red": "#eb363b",
+  "green": "#6f7c6b",
+  "yellow": "#d8c38e",
+  "blue": "#b9bccd",
+  "purple": "#b9bccd",
+  "cyan": "#b9bccd",
+  "white": "#ffffff",
+  "brightBlack": "#26171c",
+  "brightRed": "#8a0c1a",
+  "brightGreen": "#586458",
+  "brightYellow": "#aba476",
+  "brightBlue": "#393c4d",
+  "brightPurple": "#3d2e4d",
+  "brightCyan": "#70799a",
+  "brightWhite": "#dfcdd9",
+  "background": "#8a0c1a",
+  "foreground": "#dfcdd9"
+}
