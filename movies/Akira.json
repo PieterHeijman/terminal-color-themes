@@ -1,0 +1,21 @@
+{
+  "name": "Akira",
+  "black": "#26171c",
+  "red": "#8a0c1a",
+  "green": "#586458",
+  "yellow": "#aba476",
+  "blue": "#393c4d",
+  "purple": "#3d2e4d",
+  "cyan": "#70799a",
+  "white": "#dfcdd9",
+  "brightBlack": "#3b303e",
+  "brightRed": "#eb363b",
+  "brightGreen": "#6f7c6b",
+  "brightYellow": "#d8c38e",
+  "brightBlue": "#b9bccd",
+  "brightPurple": "#b9bccd",
+  "brightCyan": "#b9bccd",
+  "brightWhite": "#ffffff",
+  "background": "#26171c",
+  "foreground": "#eb363b"
+}
