@@ -1,0 +1,21 @@
+{
+    "name": "Vietnam",
+    "black": "#012340",
+    "red": "#022E40",
+    "green": "#4F5951",
+    "yellow": "#898C27",
+    "blue": "#59540E",
+    "purple": "#736D16",
+    "cyan": "#BFA317",
+    "white": "#D9CC14",
+    "brightBlack": "#214360",
+    "brightRed": "#224E60",
+    "brightGreen": "#6F7971",
+    "brightYellow": "#A9AC47",
+    "brightBlue": "#79742E",
+    "brightPurple": "#938D36",
+    "brightCyan": "#DFC337",
+    "brightWhite": "#F9EC34",
+    "background": "#012340",
+    "foreground": "#736D16"
+}
