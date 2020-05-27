@@ -1,0 +1,21 @@
+{
+    "name": "Kenyan Sunset",
+    "black": "#261818",
+    "red": "#402313",
+    "green": "#733E20",
+    "yellow": "#40231D",
+    "blue": "#A65424",
+    "purple": "#D95407",
+    "cyan": "#F27405",
+    "white": "#F28705",
+    "brightBlack": "#463838",
+    "brightRed": "#604333",
+    "brightGreen": "#935E40",
+    "brightYellow": "#60433D",
+    "brightBlue": "#C67444",
+    "brightPurple": "#F97427",
+    "brightCyan": "#FF9425",
+    "brightWhite": "#FFA725",
+    "background": "#261818",
+    "foreground": "#FFA725"
+}
