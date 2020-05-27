@@ -14,3 +14,4 @@ Color themes based on the color usage in movies (all colors in these themes are 
 Color themes based on our planet.
 
 * Kenyan Sunset - Based on a photo of a beautiful sunset in Kenya
+* Vietnam - Based on a picture of green tea growing islands in a deep blue lake in Vietnam 
