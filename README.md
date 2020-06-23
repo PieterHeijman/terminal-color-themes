@@ -17,6 +17,7 @@ Color themes based on the color usage in movies (all colors in these themes are 
 * Akira Inverted - Bright skin based  on Katsuhiro Otomo's Akira
 * Dark Crystal - Based on the Jim Henson movie, specifically from the hall where the Skeksis keep the Dark Crystal 
 * Psycho - Based on a shot of Janet Leigh from the classic thriller Psycho (yes, this is a monochrome theme)
+* Psycho Inverted - Bright version of the Psycho theme
 
 ### Earth
 Color themes based on our planet.
