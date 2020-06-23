@@ -1,0 +1,21 @@
+{
+  "name": "Psycho",
+  "black": "#0D0D0D",
+  "red": "#595959",
+  "green": "#A9A9A9",
+  "yellow": "#BFBFBF",
+  "blue": "#5E5E5E",
+  "purple": "#3B3B3B",
+  "cyan": "#B6B6B6",
+  "white": "#F2F2F2",
+  "brightBlack": "#2D2D2D",
+  "brightRed": "#8C8C8C",
+  "brightGreen": "#C9C9C9",
+  "brightYellow": "#DFDFDF",
+  "brightBlue": "#7E7E7E",
+  "brightPurple": "#3B3B3B",
+  "brightCyan": "#D6D6D6",
+  "brightWhite": "#FFFFFF",
+  "background": "#0D0D0D",
+  "foreground": "#F2F2F2"
+}
