@@ -1,0 +1,21 @@
+{
+  "name": "Shibuya Crossing",
+  "black": "#383435",
+  "red": "#D4296F",
+  "green": "#4F6743",
+  "yellow": "#F2B705",
+  "blue": "#023059",
+  "purple": "#30293A",
+  "cyan": "#226886",
+  "white": "#B6B6BA",
+  "brightBlack": "#63595A",
+  "brightRed": "#F4498F",
+  "brightGreen": "#0ABF04",
+  "brightYellow": "#D5B27B",
+  "brightBlue": "#0433BF",
+  "brightPurple": "#50495A",
+  "brightCyan": "#4288A6",
+  "brightWhite": "#D6D6DA",
+  "background": "#383435",
+  "foreground": "#B6B6BA"
+}
