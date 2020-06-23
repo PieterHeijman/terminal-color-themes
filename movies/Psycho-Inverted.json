@@ -1,0 +1,20 @@
+{
+  "name": "Psycho Inverted",
+  "black": "#2D2D2D",
+  "red": "#8C8C8C",
+  "green": "#C9C9C9",
+  "yellow": "#DFDFDF",
+  "blue": "#7E7E7E",
+  "purple": "#3B3B3B",
+  "cyan": "#D6D6D6",
+  "white": "#0D0D0D",
+  "brightRed": "#595959",
+  "brightGreen": "#A9A9A9",
+  "brightYellow": "#BFBFBF",
+  "brightBlue": "#5E5E5E",
+  "brightPurple": "#3B3B3B",
+  "brightCyan": "#B6B6B6",
+  "brightWhite": "#F2F2F2",
+  "background": "#F2F2F2",
+  "foreground": "#0D0D0D"
+}
