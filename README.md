@@ -15,7 +15,11 @@ Color themes based on the color usage in movies (all colors in these themes are 
 
 **Akira** - Dark skin based on Katsuhiro Otomo's Akira
 
+![Preview of Akira theme](https://github.com/PieterHeijman/terminal-color-themes/blob/master/previews/Akira.png?raw=true)
+
 **Akira Inverted** - Bright skin based  on Katsuhiro Otomo's Akira
+
+![Preview of Akira Inverted theme](https://github.com/PieterHeijman/terminal-color-themes/blob/master/previews/Akira%20Inverted.png?raw=true)
 
 **Dark Crystal** - Based on the Jim Henson movie, specifically from the hall where the Skeksis keep the Dark Crystal 
 
