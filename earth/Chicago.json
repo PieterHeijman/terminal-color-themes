@@ -1,0 +1,21 @@
+{
+  "name": "Chicago",
+  "black": "#0D0D0D",
+  "red": "#A63126",
+  "green": "#42302D",
+  "yellow": "#E7AA53",
+  "blue": "#8C6658",
+  "purple": "#D9C4B8",
+  "cyan": "#99532C",
+  "white": "#D3C1B5",
+  "brightBlack": "#3D3D3D",
+  "brightRed": "#D66156",
+  "brightGreen": "#72605D",
+  "brightYellow": "#FFDA83",
+  "brightBlue": "#BC9688",
+  "brightPurple": "#FFF4E8",
+  "brightCyan": "#C9835C",
+  "brightWhite": "#FFFFFF",
+  "background": "#0D0D0D",
+  "foreground": "#D3C1B5"
+}

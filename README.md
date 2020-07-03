@@ -51,3 +51,7 @@ Color themes based on our planet.
 **Dubrovnik** - Based on the coastal town Dubrovnik in Croatia.
 
 ![Preview of Dubrovnik theme](https://github.com/PieterHeijman/terminal-color-themes/blob/master/previews/Dubrovnik.png?raw=true)
+
+**Chicago** - Sweet home Chicago!
+
+![Preview of Chicago theme](https://github.com/PieterHeijman/terminal-color-themes/blob/master/previews/Chicago.png?raw=true)
