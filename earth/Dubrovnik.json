@@ -1,0 +1,21 @@
+{
+  "name": "Dubrovnik",
+  "black": "#042843",
+  "red": "#0E4C73",
+  "green": "#2474A6",
+  "yellow": "#07748C",
+  "blue": "#D96248",
+  "purple": "#C8B1A6",
+  "cyan": "#594036",
+  "white": "#F8EEE5",
+  "brightBlack": "#345873",
+  "brightRed": "#3E7CA3",
+  "brightGreen": "#54A4D6",
+  "brightYellow": "#37A4BC",
+  "brightBlue": "#FF9278",
+  "brightPurple": "#F8E1D6",
+  "brightCyan": "#897066",
+  "brightWhite": "#FFFFFF",
+  "background": "#042843",
+  "foreground": "#F8EEE5"
+}

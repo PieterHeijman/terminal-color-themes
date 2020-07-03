@@ -47,3 +47,7 @@ Color themes based on our planet.
 **Shibuya Crossing** - Based on a night-time shot of Shibuya crossing in Tokyo, Japan 
 
 ![Preview of Shibuya Crossing theme](https://github.com/PieterHeijman/terminal-color-themes/blob/master/previews/Shibuya%20Crossing.png?raw=true)
+
+**Dubrovnik** - Based on the coastal town Dubrovnik in Croatia.
+
+![Preview of Dubrovnik theme](https://github.com/PieterHeijman/terminal-color-themes/blob/master/previews/Dubrovnik.png?raw=true)
