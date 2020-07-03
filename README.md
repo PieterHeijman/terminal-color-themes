@@ -33,6 +33,11 @@ Color themes based on the color usage in movies (all colors in these themes are 
 
 ![Preview of Psycho Inverted theme](https://github.com/PieterHeijman/terminal-color-themes/blob/master/previews/Psycho%20Inverted.png?raw=true)
 
+
+**Back to the Future** - Theme based on the classic film poster for Back to the Future
+
+![Preview of Back to the Future theme](https://github.com/PieterHeijman/terminal-color-themes/blob/master/previews/Back%20to%20the%20Future.png?raw=true)
+
 ### Earth
 Color themes based on our planet.
 

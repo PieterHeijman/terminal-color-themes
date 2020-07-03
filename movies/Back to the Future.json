@@ -1,0 +1,21 @@
+{
+  "name": "Back to the Future",
+  "black": "#010326",
+  "red": "#CF1E13",
+  "green": "#D37802",
+  "yellow": "#E6F13C",
+  "blue": "#201E59",
+  "purple": "#3C47C4",
+  "cyan": "#27E2F9",
+  "white": "#E5DFF2",
+  "brightBlack": "#313356",
+  "brightRed": "#FF4E43",
+  "brightGreen": "#FFA832",
+  "brightYellow": "#FFFF6C",
+  "brightBlue": "#504E89",
+  "brightPurple": "#6C77F4",
+  "brightCyan": "#57FFFF",
+  "brightWhite": "#ffffff",
+  "background": "#010326",
+  "foreground": "#E5DFF2"
+}
